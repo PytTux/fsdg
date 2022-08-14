@@ -1,0 +1,32 @@
+header {
+    background-color: #666;
+    padding: 2px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+article{
+/* rafın solda mı sağda mı olduğunu belirler*/
+    float: left;
+/*kayma miktarı üstten*/
+    padding: 20px;
+/*iç genişliği sayfanın yüzde kaçı*/
+    width: 15%;
+    font-size: 12px;
+    background-color: #DCDCDC;
+}
+
+.paragraf{
+    color: green;
+    float: left;
+    margin-left: 20px; 
+}
+
+.icon_img{
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
