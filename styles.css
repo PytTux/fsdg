@@ -6,6 +6,15 @@ header {
     color: white;
 }
 
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #666;
+    display: block;
+    color: white;
+}
+
+
 article{
 /* rafın solda mı sağda mı olduğunu belirler*/
     float: left;
